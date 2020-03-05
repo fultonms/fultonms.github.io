@@ -12,11 +12,8 @@ main:
   - title: "Research"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
-    url: https://fultonms.github.io/files/cv.pdf
-    
-  - title: "Guide"
-    url: /markdown/
+    url: https://fultonms.github.io/files/CV.pdf
