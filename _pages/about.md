@@ -14,7 +14,7 @@ I am a PhD candidate in computer science at the University of Minnesota, focusin
 
 
 ### Marine and Field Robotics
-I work with the Aqua AUV, and have developed two new AUVs: (LoCO)[https://loco-auv.github.io/] and DIVE. My work with these AUVs includes software and hardware development, maintanence and upkeep, as well as deployments in numberous water environments, 
+I work with the Aqua AUV, and have developed two new AUVs: [LoCO](https://loco-auv.github.io/) and DIVE. My work with these AUVs includes software and hardware development, maintanence and upkeep, as well as deployments in numberous water environments, 
 
 *[AUV]: Autonomous Underwater Vehicle
 
