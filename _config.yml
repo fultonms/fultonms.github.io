@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Fulton / Robotics"
+title                    : "Michael Fulton / Human Robot Interaction"
 title_separator          : "-"
 name                     : &name "Michael Fulton"
 description              : &description "PhD Candidate"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AOlhbzAAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Michael-Fulton-6"
   uri              :
   bitbucket        :
   codepen          :
