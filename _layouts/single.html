@@ -43,11 +43,11 @@ layout: default
         {% endif %}
         
         {% if page.citation and page.paperurl and page.bibtex %}     
-        <p><h4>Recommended citation:</h4> {{ page.citation }}</p><p><a href="{{ page.paperurl }}"><u>Paper Link</u></a><a href="{{ page.bibtex }}"><u>BibTEX</u></a></p>
+        <p><h3>Recommended citation:</h3> {{ page.citation }}<br><a href="{{ page.paperurl }}">Paper Link</a>&emsp;<a href="{{ page.bibtex }}">BibTEX</a></p>
         {% elsif page.citation and page.paperurl %}
-          <p><h4>Recommended citation:</h4> {{ page.citation }}</p><p><a href="{{ page.paperurl }}"><u>Paper Link</u></a></p>
+          <p><h3>Recommended citation:</h3>{{ page.citation }}<br><a href="{{ page.paperurl }}">Paper Link</a></p>
         {% elsif page.citation %}
-          <p><h4>Recommended citation:</h4> {{ page.citation }} </p>
+          <p><h3>Recommended citation:</h3> {{ page.citation }} </p>
         {% endif %}
     
         </header>
