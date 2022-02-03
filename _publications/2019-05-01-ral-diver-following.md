@@ -5,9 +5,9 @@ permalink: /publication/2019-05-01-ral-diver-following
 excerpt: 'A deep learning based diver detection method and a diver following algorithm for AUVs.'
 date: 2019-05-01
 venue: 'IEEE Robotics and Automation Letters'
-paperurl: 'https://ieeexplore-ieee-org.ezp3.lib.umn.edu/abstract/document/8543168'
 citation: 'M. J. Islam, M. Fulton and J. Sattar, "Toward a Generic Diver-Following Algorithm: Balancing Robustness and Efficiency in Deep Visual Detection," in IEEE Robotics and Automation Letters, vol. 4, no. 1, pp. 113-120, Jan. 2019.
 doi: 10.1109/LRA.2018.2882856'
+paperurl: 'https://ieeexplore-ieee-org.ezp3.lib.umn.edu/abstract/document/8543168'
 bibtex: 'https://fultonms.github.io/files/bibtex/2019-ral-diver-detection.bib'
 ---
 ## Abstract

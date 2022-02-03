@@ -42,12 +42,15 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
+
         {% if page.citation and page.paperurl and page.bibtex %}     
-        <p><h3>Recommended citation:</h3> {{ page.citation }}<br><a href="{{ page.paperurl }}">Paper Link</a>&emsp;<a href="{{ page.bibtex }}">BibTEX</a></p>
+          <p><h3>Recommended citation:</h3> {{ page.citation }}<br><a href="{{ page.presentation }}">Presentation</a>&emsp;<a href="{{ page.paperurl }}">Paper Link</a>&emsp;<a href="{{ page.bibtex }}">BibTEX</a></p>
+        {% elsif page.citation and page.paperurl and page.bibtex %}     
+          <p><h3>Recommended citation:</h3> {{ page.citation }}<br><a href="{{ page.paperurl }}">Paper Link</a>&emsp;<a href="{{ page.bibtex }}">BibTEX</a></p>
         {% elsif page.citation and page.paperurl %}
           <p><h3>Recommended citation:</h3>{{ page.citation }}<br><a href="{{ page.paperurl }}">Paper Link</a></p>
-        {% elsif page.citation %}
-          <p><h3>Recommended citation:</h3> {{ page.citation }} </p>
+        {% elsif page.citation and page.bibtex%}
+          <p><h3>Recommended citation:</h3> {{ page.citation }}<br><a href="{{ page.bibtex }}">BibTEX</a> </p>
         {% endif %}
     
         </header>

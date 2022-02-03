@@ -5,8 +5,8 @@ permalink: /publication/2022-05-01-icra-adroc
 excerpt: 'A method which allows AUVs to approach divers using only monocular vision.'
 date: 2022-05-01
 venue: 'International Conference on Robotics and Automation (ICRA)'
-paperurl: ''
 citation: 'M. Fulton, J. Hong, M. J. Islam and J. Sattar, "Using Monocular Vision and Human Body Priors for AUVs to Autonmously Approach Divers," Accepted at 2022 International Conference on Robotics and Automation (ICRA), 2022'
+paperurl: ''
 bibtex: 'https://fultonms.github.io/files/bibtex/2022-icra-adroc.bib'
 ---
 ## Abstract

@@ -5,10 +5,10 @@ permalink: /publication/2021-11-01-thri-robot-communication-via-motion
 excerpt: 'Three studies evaluating a motion-based communication method for AUVs in simulation, in a full-loop context, and compared to other communication systems in a variety of phsyical orientations.'
 date: 11-01-2021
 venue: 'ACM Transactions on Human Robot Interaction'
-paperurl: ''
 citation: 'Michael Fulton, Chelsey Edge, and Junaed Sattar. 2021. Robot Communication Via Motion: A Study on Modal-
 ities for Robot-to-Human Communication in the Field. 11, 2, Article 15 (November 2021), 42 pages.
 https://doi.org/10.1145/3495245'
+paperurl: ''
 bibtex: 'https://fultonms.github.io/files/bibtex/2021-thri-rcvm.bib'
 ---
 ## Abstract
