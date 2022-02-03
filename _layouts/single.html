@@ -43,7 +43,7 @@ layout: default
         {% endif %}
         
 
-        {% if page.citation and page.paperurl and page.bibtex %}     
+        {% if page.citation and page.paperurl and page.bibtex and page.presentation %}     
           <p><h3>Recommended citation:</h3> {{ page.citation }}<br><a href="{{ page.presentation }}">Presentation</a>&emsp;<a href="{{ page.paperurl }}">Paper Link</a>&emsp;<a href="{{ page.bibtex }}">BibTEX</a></p>
         {% elsif page.citation and page.paperurl and page.bibtex %}     
           <p><h3>Recommended citation:</h3> {{ page.citation }}<br><a href="{{ page.paperurl }}">Paper Link</a>&emsp;<a href="{{ page.bibtex }}">BibTEX</a></p>
