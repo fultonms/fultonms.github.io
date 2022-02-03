@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-10-01-iros-prediction
 excerpt: 'A method for predicting the future motion of divers using LSTMs.'
 date: 2021-10-01
-venue: '2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9636374'
 citation: 'T. Agarwal, M. Fulton and J. Sattar, "Predicting the Future Motion of Divers for Enhanced Underwater Human-Robot Collaboration," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp. 5379-5386, doi: 10.1109/IROS51168.2021.9636374.'
 bibtex: 'https://fultonms.github.io/files/bibtex/2021-iros-prediction.bib'
