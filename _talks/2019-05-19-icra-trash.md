@@ -1,5 +1,5 @@
 ---
-title: "Robotic detection of marine litter using deep visual detection models""
+title: "Robotic detection of marine litter using deep visual detection models"
 collection: talks
 type: "Interactive Presentation"
 permalink: /talks/2019-05-19-icra-trash
