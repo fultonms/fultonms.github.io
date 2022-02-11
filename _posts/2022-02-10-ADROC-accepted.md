@@ -1,7 +1,7 @@
 ---
 title: 'ADROC accepted at ICRA 2022'
-date: 2020-03-17
-permalink: /posts/2022-02/ADROC-accepted/
+date: 2022-20-10
+permalink: /posts/2022/02/ADROC-accepted/
 tags:
   - anouncements
 ---
