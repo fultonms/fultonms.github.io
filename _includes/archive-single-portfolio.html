@@ -14,20 +14,10 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="archive__item-teaser">
-      <img src=
-        {% if post.teaser contains "://" %}
-          "{{ post.teaser }}"
-        {% else %}
-          "{{ post.teaser | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
-        alt="">
+    <div class="archive__portfolio_image-excerpt-div">
+      <img src=" " {{ post.excerpt-image | prepend: "/images/" | prepend: base_path }} "" class="archive__portfolio-image-excerpt"></img>
     </div>
-
-    <!-- <div class="archive__portfolio_image-excerpt-div">
-      <img src="{{ post.excerpt-image }}" class="archive__portfolio-image-excerpt"></img>
-    </div> -->
-    <!-- <div class="achive__portfolio_text-excerpt-div"> -->
+    <div class="achive__portfolio_text-excerpt-div">
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -47,7 +37,7 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    <!-- </div> -->
+    </div>
 
   </article>
 </div>

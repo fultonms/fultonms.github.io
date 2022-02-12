@@ -1,7 +1,7 @@
 ---
 title: "Trash Detection"
 excerpt: "Deep learning methods for detection of underwater debris"
-teaser: "trash_detection.png"
+excerpt-image: "trash_detection.png"
 excerpt-image: "/images/trash_detection.png"
 collection: research
 ---
