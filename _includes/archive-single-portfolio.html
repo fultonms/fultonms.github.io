@@ -16,10 +16,10 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="archive__item-teaser">
       <img src=
-        {% if teaser contains "://" %}
-          "{{ teaser }}"
+        {% if post.teaser contains "://" %}
+          "{{ post.teaser }}"
         {% else %}
-          "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          "{{ post.teaser | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
         alt="">
     </div>
