@@ -85,18 +85,26 @@
   text-decoration: underline;
 }
 
+
+.archive__item{
+  display: flex;
+}
 .archive__portfolio_image-excerpt-div{
   justify-content: left;
   float:left;
+  flex: 1;
+  padding: 1em;
 }
 
 .archive__portfolio_text-excerpt-div{
   justify-content: right;
   float:left;
+  flex: 1;
+  padding: 1em;
 }
 
 .archive__portfolio-image-excerpt{
-  width: 100px;
+  width:100%
 }
 
 
