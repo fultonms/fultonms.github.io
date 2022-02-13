@@ -94,7 +94,8 @@
   float:left;
   flex: 1;
   padding: 1em;
-  width: 300px;
+  min-width: 300px;
+  max-width: 300px;
 }
 
 .archive__portfolio_text-excerpt-div{
