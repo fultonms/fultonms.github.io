@@ -85,13 +85,12 @@
   text-decoration: underline;
 }
 
-
 .archive__portfolio_item{
   display: flex;
 }
 
 .archive__portfolio_image-excerpt-div{
-  justify-content: left;
+  justify-content: center;
   float:left;
   flex: 1;
   padding: 1em;
