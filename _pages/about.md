@@ -15,7 +15,8 @@ I am a PhD candidate in computer science at the University of Minnesota, focusin
 * [Diver Approach Algorithm](https://michaelscottfulton.com/portfolio/adroc)
 * [Motion-Based AUV Communication](https://michaelscottfulton.com/portfolio/rcvm)
 * [Diver Detection](https://michaelscottfulton.com/portfolio/diver-detection)
-* [Full List Here](https://michaelscottfulton.com/portfolio/)
+
+[Full List Here](https://michaelscottfulton.com/portfolio/)
 
 ### Marine and Field Robotics
 I work with the Aqua AUV and helped to lead the development of a new AUVs [LoCO](https://loco-auv.github.io/). My work with these AUVs includes software and hardware development, maintanence and upkeep, as well as deployments in numberous water environments. 
