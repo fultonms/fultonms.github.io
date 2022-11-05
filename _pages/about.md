@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD candidate in computer science at the University of Minnesota, focusing on robotics. I study marine and field robotics, human-robot interaction, and applications of computer vision and machine learning to robotics. I am particularly interested in applications of robotics that better our society and the world around us: environmental monitoring, conservation biology, etc.
 
 ## Seeking Employment Around January 2023
-I currently expect to complete my PhD before or during January 2022. I am seeking employment (industry or academia) beginning directly after the completion of my PhD. If you have or know of an opportunity I might be interested in, please let me know by DMing me on Twitter, or emailing me at my institutional email (fulto081 AT umn.edu)
+I currently expect to complete my PhD this coming January (2023). I am seeking employment beginning directly after the completion of my PhD. If you think I am a good fit for your team, please contact me via Twitter, LinkedIn, or emailing me at my institutional email (fulto081 AT umn.edu)
 
 ### A selection of my research
 * [Diver Approach Algorithm](https://michaelscottfulton.com/portfolio/adroc)
