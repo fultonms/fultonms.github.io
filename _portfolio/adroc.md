@@ -4,7 +4,7 @@ excerpt: "A method for diver approach by AUVs using monocular vision."
 excerpt-image: "research/adroc/excerpt.gif"
 collection: research
 relevant-pubs: 
-    ICRA22: /publication/2022-05-01-icra-adroc
+    ICRA-22: /publication/2022-05-01-icra-adroc
 ---
 The ability of an AUV to navigate relative to a diver is essential for effective diver-AUV interaction.  In order for a robot to communicate with a diver, the robot must be able to position itself in front of a diver, at an appropriate distance from the diver. Our method, autonomous diver-relative operator configuration (ADROC), achieves this using only monocular vision as input. 
 
