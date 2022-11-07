@@ -45,7 +45,7 @@ layout: default
         {% if page.relevant-pubs %}
           <br>
           <h3>Relevant Publications:</h3>
-          {% for name, link in page.relevant-pubs.items %}
+          {% for name, link in page.relevant-pubs.items  limit:4 %}
             <a href="{{ link }}" >{{ name }}</a>&nbsp;&nbsp;
           {% endfor%}
           <br><br>
