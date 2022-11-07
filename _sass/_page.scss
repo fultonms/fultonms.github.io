@@ -403,12 +403,20 @@
 /*
    Publications
    ========================================================================== */
+.publication_summary{
+  background: lightgray;
+  border-radius: 10pt;
+  padding: 5pt;
+}
+
 .venue_title{
-
-
+  font-size: x-large;
+  font-weight: bold;;
 }
 
 .venue_count{
-  
+  font-size: larger;
+  font-style: italic;
 
 }
+
