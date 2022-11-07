@@ -19,9 +19,15 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
+
     {% if page.title == "Publications" %}
-      <h1>BRUH</h1>
+    <div class="publication_summary">
+      <h2>ICRA: </h2><h4>4 papers</h4>   <h2>IROS: </h2><h4>4 papers </h4><h2>RSS: </h2><h4>1 paper</h4><br>
+      <h2>THRI: </h2><h4>1 article</h4> <h2>RAL: </h2> <h4>1 article</h4>
+    </div>
+      
     {% endif %}
+
     {{ content }}
   </div>
 </div>

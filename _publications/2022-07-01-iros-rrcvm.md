@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-11-01-iros-rrcvm
 excerpt: 'A method for recognizing robotic gestures with another robot, for inter-robot communication via motion.'
 date: 2022-11-01
-venue: 'International Conference on Intelligent Robots and Systems'
+venue: 'International Conference on Intelligent Robots and Systems (IROS)'
 citation: 'S. Enan, M. Fulton, J. Sattar, "Robotic Detection of a Human-Comprehensible Gestural Language for Underwater Multi-Human-Robot Collaboration", Proceedings of the 2022 International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, 2022. '
 paperurl: ''
 bibtex: 'https://fultonms.github.io/files/bibtex/2022-rrcvm-iros.bib'
