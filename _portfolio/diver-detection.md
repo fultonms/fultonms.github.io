@@ -1,5 +1,5 @@
 ---
-title: "Diver Detection Detection"
+title: "Diver Detection"
 excerpt: "Deep learning methods for detection of divers"
 excerpt-image: "research/diver_detection/excerpt.gif"
 collection: research
