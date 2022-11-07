@@ -43,7 +43,8 @@ layout: default
         {% endif %}
 
         {% if page.relevant-pubs}
-          <h3>Relevant Publication:</h3>
+          <br>
+          <h3>Relevant Publications:</h3>
           {% for name, link in page.relevant-pubs.items %}
             <a href="{{ link }}" >{{ name }}</a>&nbsp;&nbsp;
             <br><br>
