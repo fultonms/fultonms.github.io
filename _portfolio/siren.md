@@ -4,4 +4,4 @@ excerpt: "A sound-based communication method for AUVs, using musical tones and s
 excerpt-image: "research/siren/excerpt.png"
 collection: research
 ---
-
+This project is upcoming, but has yet to be published. Check back for more information soon!
