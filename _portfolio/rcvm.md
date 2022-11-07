@@ -28,7 +28,7 @@ Following this, we compared RCVM with a light-based communication method, a soun
 We discovered that RCVM is more resistant to change in viewpoint than other methods.
 
 <div align="center">
-    <img alt="RCVM vs other systems" src="https://michaelscottfulton.com/images/research/rcvm/system.png">
+    <img alt="RCVM vs other systems" src="https://michaelscottfulton.com/images/research/rcvm/systems.png">
     <img alt="RCVM vs other systems at a variety of viewpoints." src="https://michaelscottfulton.com/images/research/rcvm/viewpoints.png">
     <img alt="RCVM vs other systems with different content." src="https://michaelscottfulton.com/images/research/rcvm/content.png">
 </div>
