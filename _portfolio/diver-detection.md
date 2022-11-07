@@ -6,6 +6,7 @@ collection: research
 relevant-pubs: 
     RAL-19: /publication/2019-05-01-ral-diver-following
     IROS-21: /publication/2021-10-01-iros-vddc
+    IROS-21(Prediction): /publication/2021-10-01-iros-prediction
 ---
 The task of diver detection is challenging, but key to underwater human-robot interaction. For an AUV and a diver to effectively collaborate, the AUV must know the diver's location.
 My earliest work on this subject was under the direction of my fellow PhD student Md. Jahidul Islam, developing a novel diver detection algorithm and comparing it to other commonly used methods.
