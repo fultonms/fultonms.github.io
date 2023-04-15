@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2022-09-15-arxiv-hreye
 excerpt: ''
 date: 2022-07-01
-venue: 'arXiv, under submission at ICRA 23'
-citation: 'M. Fulton, A. Prabhu, J. Sattar "HREyes: Design, Development, and Evaluation of a Novel Method for AUVs to Communicate Information and Gaze Direction", arXiv, 2022.'
+venue: 'To appear, ICRA 2023, pre-print available on arXiv'
+citation: 'M. Fulton, A. Prabhu, J. Sattar "HREyes: Design, Development, and Evaluation of a Novel Method for AUVs to Communicate Information and Gaze Direction", to appear in IEEE International Conference on Robotics and Automation (ICRA) 2023.'
 paperurl: 'https://arxiv.org/abs/2211.02946'
 bibtex: 'https://fultonms.github.io/files/bibtex/2022-hreye=arxiv.bib'
 ---

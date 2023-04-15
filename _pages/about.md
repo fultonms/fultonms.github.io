@@ -7,11 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## I study robotics at the University of Minnesota
-I am a PhD candidate in computer science at the University of Minnesota, focusing on robotics. I study marine and field robotics, human-robot interaction, and applications of computer vision and machine learning to robotics. I am particularly interested in applications of robotics that better our society and the world around us: environmental monitoring, conservation biology, etc.
-
-## Seeking Employment Around January 2023
-I currently expect to complete my PhD this coming January (2023). I am seeking employment beginning directly after the completion of my PhD. If you think I am a good fit for your team, please contact me via Twitter, LinkedIn, or emailing me at my institutional email (fulto081 AT umn.edu)
+## I am a roboticist, an applied computer scientist, and a researcher
+I completed my PhD in computer science at the University of Minnesota, focusing on robotics. I studied marine and field robotics, human-robot interaction, and applications of computer vision and machine learning to robotics. I am particularly interested in applications of robotics that better our society and the world around us: environmental monitoring, conservation biology, etc. Currently, I work for Independent Robotics remotely from Minneapolis, developing autonomous behaviors and interaction software for the AQUA2 AUV and other marine robots.
 
 ### A selection of my research
 * [Diver Approach Algorithm](https://michaelscottfulton.com/portfolio/adroc)
