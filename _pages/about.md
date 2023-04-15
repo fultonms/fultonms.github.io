@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Michael Fulton --  Robotics PhD"
+title: "Michael Fulton -- Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
