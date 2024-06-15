@@ -88,7 +88,7 @@
 
     @include breakpoint($large) {
       padding: 2px;
-      background-color: mix($neutral-color, $primary-color, 25%);
+      background-color: mix(#000, $primary-color, 25%);
       border: 5px solid $avatar-border-color;
     }
   }

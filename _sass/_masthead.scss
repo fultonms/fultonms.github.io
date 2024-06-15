@@ -49,5 +49,6 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+    background-color: mix(#fff, $primary-color, 25%);
   }
 }
