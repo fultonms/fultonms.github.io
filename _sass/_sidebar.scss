@@ -191,7 +191,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
-    border-color: $accent-border-color transparent;
+    border-color: $avatar-border-color;
     z-index: 0;
 
     @include breakpoint($large) {
