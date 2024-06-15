@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "I am a robotics software engineer and researcher"
+title_override: true
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,7 +20,7 @@ Starting in 2016, I began to develop OpenCV-based computer vision applications, 
 
 
 ## Human-Robot Interaction
-The focus of my dissertation was HRI, particularly the ways the humans and underwater robots can communicate with one another safely and effectively. I developed [motion-based](https://michaelscottfulton.com/portfolio/rcvm), [light-based](https://michaelscottfulton.com/portfolio/hreye), and [audio-based](https://michaelscottfulton.com/portfolio/siren) AUV communication methods. My dissertation introduced robust, multi-modal, natural human-robot interactions into the underwater world, work I have continued at Independent Robotics with a complete overhaul of the HRI systems of the Aqua2 Mk3.
+The focus of my reserach during my graduate studies was HRI, particularly the ways the humans and underwater robots can communicate with one another safely and effectively. I developed [motion-based](https://michaelscottfulton.com/portfolio/rcvm), [light-based](https://michaelscottfulton.com/portfolio/hreye), and [audio-based](https://michaelscottfulton.com/portfolio/siren) AUV communication methods. My dissertation introduced robust, multi-modal, natural human-robot interactions into the underwater world, work I have continued at Independent Robotics with a complete overhaul of the HRI systems of the Aqua2 Mk3.
 
 *[HRI]: Human Robot Interaction
 

@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Human-Centric Robotics"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Michael Fulton"
 description              : &description "P.hD."
 url                      : https://michaelscottfulton.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
