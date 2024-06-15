@@ -87,8 +87,9 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $avatar-border-color;
+      padding: 2px;
+      background-color: $neutral-color;
+      border: 5px solid $avatar-border-color;
     }
   }
 }
