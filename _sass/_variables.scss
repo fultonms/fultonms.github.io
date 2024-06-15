@@ -59,7 +59,6 @@ $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
-$avatar-border-color        : $accent-color;
 
 $primary-color              : #245655;
 $accent-color               : #9775A9;
@@ -98,6 +97,7 @@ $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$avatar-border-color        : $accent-color;
 
 
 /*
