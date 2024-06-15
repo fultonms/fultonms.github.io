@@ -2,7 +2,7 @@
 title: "HREyes: Design, Development, and Evaluation of a Novel Method for AUVs to Communicate Information and Gaze Direction"
 collection: publications
 permalink: /publication/2023-05-31-icra-hreye
-excerpt: ''
+excerpt: 'A new method for light-based robot-to-human communication underwater'
 date: 2023-05-31
 venue: 'ICRA 2023,'
 citation: 'M. Fulton, A. Prabhu and J. Sattar, "HREyes: Design, Development, and Evaluation of a Novel Method for AUVs to Communicate Information and Gaze Direction," 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 2023'

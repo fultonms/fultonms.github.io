@@ -404,7 +404,7 @@
    Publications
    ========================================================================== */
 .publication_summary{
-  background: $neutral-color;
+  background: mix(#fff, $neutral-color, 50%);
   border-radius: 10pt;
   padding: 5pt;
   line-height: 35pt;
